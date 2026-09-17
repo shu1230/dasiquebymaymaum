@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function handleLoginSubmit() {
         const val = loginPasswordInput.value;
-        if (val === '111') {
+        if (val === '7812') {
             currentMode = 'artist';
             sessionStorage.setItem('artistMode', 'true');
             applyModeState();
