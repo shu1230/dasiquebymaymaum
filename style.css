@@ -100,7 +100,7 @@ html, body {
 
 /* 아티스트 뱃지 */
 .artist-badge {
-    background: linear-gradient(135deg, #AED581 0%, #689F38 100%);
+    background: linear-gradient(135deg, #3a92d9 0%, #689F38 100%);
     color: #FFFFFF;
     font-size: 8.5px;
     font-weight: 800;
@@ -634,7 +634,7 @@ body.mode-artist .selectable-target:active {
     width: 32px;
     height: 32px;
     border-radius: 50%;
-    background-color: #558B2F;
+    background-color: #3a92d9;
     border: none;
     display: flex;
     align-items: center;
@@ -800,7 +800,7 @@ body.mode-artist .selectable-target:active {
     max-width: 265px; /* 오른쪽 말풍선 최대 너비 (원하는 비율로 수정) */
 }
 .message-group.right-align .bubble-white {
-    background-color: #558B2F; /* 오른쪽 배경색 (예: 카카오톡 노란색) */
+    background-color: #3a92d9; /* 오른쪽 배경색 (예: 카카오톡 노란색) */
     color: #fff; /* 오른쪽 글자색 */
 }
 
